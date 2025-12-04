@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask_sqlalchemy
+flask_login
+flask_wtf
+flask_bcrypt
+torch
+python-chess
